@@ -103,7 +103,7 @@
                         ↳control2
                         ...
 
-5- Each script has an explanation about input information inside the notebook itself. If you use recommended folder names, you won't need to change any input. 
+5- Each script has an explanation about proccess and input information inside the notebook itself. If you use recommended folder names, you won't need to change any input. 
 
 
 --------------

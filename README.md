@@ -14,16 +14,16 @@
         This notebook provides algorithms for transforming dicom data to the nifti format and saving informatons to excel file 
 ### 2_create_scull_stripping_commands_for_Terminal.ipynb
        This  notebook provides command list for running scull stripping from terminal       
-### 3_MRC_analysis.ipynb
+### 3_MRC_analysis.ipynb.ipynb
        This  notebook provides algorithms for MRC analysis which is explained in the ..... article      
 ### 4_statistical_analysis_1
        This  notebook provides algorithms for MRC analysis (Mann-Whitney U test, ROC Curve analysis) and power        analysis. Details were explained in ......... article       
-### 5_EPE_analysis
+### 5_EPE_analysis.ipynb
         This  notebook provides algorithms for EPE analysis which is explained in the ..... article       
-### 6_Visualization
+### 6_Visualization.ipynb
         This notebook support visualization of projects' results.
         
-### ----------- Whole_Analysis_3-4-5
+### ----------- Whole_Analysis_3-4-5.ipynb
         This notebook includes following notebooks functions :
             - 3_MRC_analysis.ipynb
             - 4_statistical_analysis_1
@@ -33,14 +33,14 @@
 
 ## ------------------ Helper Functions Scripts
 
-### Feature_extraction_classes_functions
-### project_helper_functions_classes
-### visualization_helper_functions
+### Feature_extraction_classes_functions.ipynb
+### project_helper_functions_classes.ipynb
+### visualization_helper_functions.ipynb
 
 
 ## ------------------ Script for Testing the Project
 
-### Test_project
+### Test_project.ipynb
         This notebook is created for 2 main aim:
             1- Proving algorithms hypotehesis on artificial image.
             2- Checking if algorithms will be worked properly in the environment.

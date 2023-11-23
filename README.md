@@ -58,10 +58,11 @@
 
 ## ------------------ Important Notes for Users
 
-1- The given algorithms are providing step by step MRI quantitative analysis. 
-2- First notebook with the name of "1_convert_dicomto_nifti_save_info_to_excel.ipynb" converts dicom data to nifti images. So, if you have nifti images at the beginning, you don't need to process this step.
-3- The second notebook with the name of "2_create_scull_stripping_commands_for_Terminal.ipynb" gives list of commands for running in the FreeSurfer terminal for proccess scull-strpping.
-4- During the analysis, different type of data will be created, stored and used within algorithms. You will need to store your data in order for proccess algorithms successfully. The recommendation is :
+1- You need to place each jupyter notebook file inside the same folder. The recommendation is having "data folder" also inside this main folder. Details about storage is given below.
+2- The given algorithms are providing step by step MRI quantitative analysis. 
+3- First notebook with the name of "1_convert_dicomto_nifti_save_info_to_excel.ipynb" converts dicom data to nifti images. So, if you have nifti images at the beginning, you don't need to process this step.
+4- The second notebook with the name of "2_create_scull_stripping_commands_for_Terminal.ipynb" gives list of commands for running in the FreeSurfer terminal for proccess scull-strpping.
+5- During the analysis, different type of data will be created, stored and used within algorithms. You will need to store your data in order for proccess algorithms successfully. The recommendation is :
     - if you have dicom data at the beginning recommended dictionary hierarchy :
     
             ↳data    ------------------------------------------->(recommended directory name)
@@ -103,7 +104,7 @@
                         ↳control2
                         ...
 
-5- Each script has an explanation about proccess and input information inside the notebook itself. If you use recommended folder names, you won't need to change any input. 
+6- Each script has an explanation about proccess and input information inside the notebook itself. If you use recommended folder names, you won't need to change any input. 
 
 
 --------------
